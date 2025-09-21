@@ -56,7 +56,7 @@ const Hero: React.FC<HeroProps> = ({ scrollToSection }) => {
           </button>
           
           <a
-            href="https://drive.google.com/file/d/1D3UUb5FL461XD4MXfsMT3Vufbc4rUPMG/view"
+            href="https://drive.google.com/file/d/1pgTJpAQBO8V8LW2mAtS75WyVUT6rJXxc/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-4 bg-gray-700/50 rounded-full text-white font-semibold hover:bg-gray-600/50 transition-all duration-300 transform hover:scale-105"
